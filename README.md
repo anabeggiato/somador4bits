@@ -16,6 +16,6 @@ Disponível em: <code>./somador4bits.dig</code>
 
 ## Vídeo de funcionamento do circuito:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sD8mZl1BMcI?si=7QCtFBtfmUFpwyl7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+O vídeo com teste do somador pode ser encontrado [aqui](https://www.youtube.com/embed/sD8mZl1BMcI?si=7QCtFBtfmUFpwyl7)
 
 - A explicação fica pro ao vivo :)
